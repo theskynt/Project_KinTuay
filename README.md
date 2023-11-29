@@ -1,2 +1,2 @@
-# Project_Web
+# Project_KinTuay
 ออกแบบหน้าเว็บฝากซื้ออาหารในโรงอาหารมหาลัยใช้ HTML/CSS
